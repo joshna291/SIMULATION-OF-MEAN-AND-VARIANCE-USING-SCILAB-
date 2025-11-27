@@ -81,7 +81,14 @@ n2=max(size(x))-1;
 r=corr(x,y,n1); 
 plot2d3('gnn',r);
 ```
+__Tabulation__:
+
+![WhatsApp Image 2025-11-27 at 08 56 35_f5f240d9](https://github.com/user-attachments/assets/05af47ef-7f1f-4099-9418-8cea6e7cad99)
+![WhatsApp Image 2025-11-27 at 08 56 45_786bb0d4](https://github.com/user-attachments/assets/1202db8b-0cb5-4436-99a3-4e1145e659f1)
+
 __OUTPUT GRAPH:__
+
+
 <img width="501" height="283" alt="image" src="https://github.com/user-attachments/assets/9f56ca60-fe59-40d7-8130-53daf4608092" />
 
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/014ea250-6f2a-4ead-870d-83617ce8a130" />
